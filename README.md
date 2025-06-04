@@ -1,0 +1,1 @@
+# HTB-IDOR-Linux-Capabilities
